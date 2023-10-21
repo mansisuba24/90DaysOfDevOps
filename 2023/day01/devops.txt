@@ -1,8 +1,24 @@
-DevOps is a methodology which Involves practices to bridge the gap of Dev and ops team by using Open source automation build tools.
-These are the articles which I refered to,
-
-
-formal defination   :   "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users."
-
-The main goal of DEVOPS is to shorten cycle time. Start with the release pipeline. How long does it take to deploy a change of one line of code or configuration.
-
+What is DevOps: It is a methodology and combination of development and operation
+Devops=Development+Operation
+What are Automation, Scaling, & Infrastructure
+Automation: is the practice of automating repetitive and manual tasks to be carried out without any human interaction.
+Automation = Automating Manual+Repetative task
+Scaling:
+The goal of scaling in DevOps is to ensure that your system can handle increased demand, maintain performance, and remain responsive.
+Scaling= handle Increased demand+mainatin Performanance+Responsive by system
+There are two types of scaling in DevOps:
+Vertical Scaling (Upward Scaling): Involves adding more resources (like CPU, RAM, or storage) to an existing server or node to handle increased load. It's like upgrading your computer's hardware to make it more powerful.
+Horizontal Scaling (Outward Scaling): Involves adding more instances of servers or nodes to distribute the load. Instead of making an existing server more powerful, you add more servers to the system. This is often achieved through technologies like load balancers that distribute incoming traffic among multiple servers.
+Infrastructure:
+it is a framework that supports the software application throughout its development, deployment, and operation. It encompasses all the necessary hardware, servers, networking components, and software that are essential for the functioning of an application or system.
+Here are some key components of infrastructure in DevOps:
+Servers and Hardware: Physical servers or virtual machines that host applications and services.
+Networking: Involves the configuration of routers, switches, and other network devices to ensure proper communication between different components of the infrastructure.
+Storage: The management of data storage, which includes both local and distributed storage solutions. This is crucial for storing application data, logs, and other relevant information.
+Operating Systems: Software that manages hardware resources and provides a platform for running applications. Common operating systems include Linux and Windows.
+Cloud Services: With the rise of cloud computing, many organizations leverage cloud services (such as AWS, Azure, or Google Cloud) to host their infrastructure. This allows for more flexibility, scalability, and often cost savings.
+Configuration Management: Tools and practices to automate the provisioning and configuration of infrastructure components.
+Monitoring and Logging: Infrastructure needs to be monitored to detect issues, and logs need to be collected to analyze and troubleshoot problems.
+Security: Implementing security measures to protect the infrastructure from unauthorized access, data breaches, and other cyber threats.
+Why DevOps is Important, etc?
+Faster development of applications and easier maintenance of existing deployments.
